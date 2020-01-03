@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skymod",
+  "name": "SkyMod",
+  "description": "A mod that adds many new unique and useful blocks/items to the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skyrossm"],
+  "credits": "Pahimar and MCF for modding tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
