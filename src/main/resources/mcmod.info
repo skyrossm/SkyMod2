@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "skymod",
+  "name": "SkyMod",
+  "description": "A mod that adds many new unique and useful blocks/items to the game.",
+  "version": "2.0",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Skyrossm"],
+  "credits": "Pahimar and MCF for modding tutorials",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
